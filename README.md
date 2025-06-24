@@ -32,19 +32,10 @@ Supervised / Unsupervised Learning, NLP, Deep Learning, Transformers
 
 ---
 
-## 🧪 Projects
+## 👥 Team Project Collaboration
 
-- 📦 **E-Commerce Inventory Analysis**  
-  Analyzing product stock, pricing, and performance to reduce deadstock and support promotion strategies.  
-  *Tools*: Python, Pandas, Elasticsearch, Apache Airflow
-
-- 🏠 **Melbourne Housing Price Prediction**  
-  Machine learning model to predict housing prices based on historical data.  
-  *Tools*: Python, Scikit-Learn, Streamlit
-
-- 🔁 **Bank Customer Churn Analysis**  
-  Descriptive analytics and visualization to support churn reduction strategies.  
-  *Tools*: Pandas, Matplotlib, Seaborn
+As part of my learning journey at Hacktiv8, I collaborated with amazing peers on a real-world data science project.  
+🔗 [Clusturn]((https://github.com/FTDS-assignment-bay/p2-final-project-ftds-042-rmt-group-002))
 
 ---
 
