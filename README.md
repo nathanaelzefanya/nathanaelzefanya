@@ -35,7 +35,7 @@ Supervised / Unsupervised Learning, NLP, Deep Learning, Transformers
 ## 👥 Team Project Collaboration
 
 As part of my learning journey at Hacktiv8, I collaborated with amazing peers on a real-world data science project.  
-🔗 [Clusturn]((https://github.com/FTDS-assignment-bay/p2-final-project-ftds-042-rmt-group-002))
+🔗 [Clusturn](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-042-rmt-group-002)
 
 ---
 
