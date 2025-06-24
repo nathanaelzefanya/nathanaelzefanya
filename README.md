@@ -1,7 +1,6 @@
-# 👋 Hi there! I'm Nathanael August Zefanya
+# 👋 Hello there! 
 
-🎯 A **Data Analyst & Data Scientist** with a background in process optimization, procurement, and business development across the banking and petrochemical sectors.  
-📊 I recently completed Hacktiv8’s Full-Time Data Science Program and transitioned into the world of data and technology. Now I thrive on turning raw data into real-world solutions through analysis, machine learning, and automation.
+I'm Nathanael August Zefanya, a **Data Analyst & Data Scientist** with a background in process optimization, procurement, and business development across the banking and petrochemical sectors. I recently completed Hacktiv8’s Full-Time Data Science Program and transitioned into the world of data and technology. Now I thrive on turning raw data into real-world solutions through analysis, machine learning, and automation.
 
 ---
 
