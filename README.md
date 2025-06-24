@@ -52,7 +52,7 @@ Supervised / Unsupervised Learning, NLP, Deep Learning, Transformers
 ## 📫 Let's Connect!
 
 - 📧 Email: [nazb1228@gmail.com](mailto:nazb1228@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/your-link-here](https://www.linkedin.com/in/your-link-here)
+- 🔗 LinkedIn: [linkedin.com/in/your-link-here](https://www.linkedin.com/in/nathanael-zefanya)
 
 ---
 
