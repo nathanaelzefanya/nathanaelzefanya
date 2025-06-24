@@ -22,7 +22,7 @@ I'm Nathanael August Zefanya, a **Data Analyst & Data Scientist** with a backgro
 `Tableau`, `Plotly`, `Streamlit`
 
 **Machine Learning & AI**  
-Supervised / Unsupervised Learning, NLP, Deep Learning, Transformers
+Supervised / Unsupervised Learning, Deep Learning, Computer Vision, NLP
 
 **Data Engineering & Backend**  
 `PostgreSQL`, `Google BigQuery`, `FastAPI`, `Elasticsearch`, `Apache Airflow`, `SQLAlchemy`
